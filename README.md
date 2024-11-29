@@ -1,5 +1,7 @@
 # Rynus Telegram Bot Automation
 
+![image](https://github.com/user-attachments/assets/4839ef2a-afb3-4fda-847b-a88b9b3f8388)
+
 This is a Node.js automation script for Rynus Telegram mini app that automates daily check-in and labeling tasks.
 
 ## Features

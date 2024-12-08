@@ -175,7 +175,7 @@ class Rynus {
         {
           params: {
             telegramId: account.telegramId,
-            referralCode: "6944804952",
+            referralCode: "6753787718",
           },
           headers: {
             ...this.getHeaders(account),
